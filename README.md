@@ -8,6 +8,7 @@ Tech stack:
 For Web App: 
 
 FRONT:
+- >Babel/ ES 2018 minimum, 
 - React
 - TypeScript
 - Redux Toolkit (because Redux isnt that good as Redux Toolkit (createAction for the win :)))
@@ -20,16 +21,21 @@ Backend:
 For Mobile App:
 - Flutter / React Native (to consider)
 
+Trip:
+- create trips then use them and check 
+
+
 Map:
-- leaflet or mapy.cz (leaflet has an easier integration with it)
-- possibility for choosing tracks
+- leaflet or mapy.cz (leaflet has an easier integration)
+- possibility for choosing tracks between points
+- 
 
 Tracks:
 - tagging possibility
 - photo sharing 
 
 Points:
-- show weather for selected destination
+- show weather for selected destination (for selected hour/date)
 
 
 Weather:
